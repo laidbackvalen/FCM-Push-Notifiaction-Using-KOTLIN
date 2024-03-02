@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450273873428",
+    "project_id": "fcm-using-kotlin",
+    "storage_bucket": "fcm-using-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450273873428:android:e0443de2e36da6cd31e101",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushnotificationsusingkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAhdOGRfg0Ofvf0mqnPKo0S3NIcD0bwNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
